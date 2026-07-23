@@ -90,13 +90,13 @@ sampling and export)
 ## Repository Structure
 
 
-├── README.md
-├── sql/
-│   └── rfm_analysis.sql
-├── data/
-│   └── sample_data_dictionary.md
-└── dashboard/
-    └── rfm_dashboard_screenshot.png
+├── README.md  
+├── sql/  
+│   └── rfm_analysis.sql  
+├── data/  
+│   └── sample_data_dictionary.md  
+└── dashboard/  
+    └── rfm_dashboard_screenshot.png  
 
 
 ## Author
